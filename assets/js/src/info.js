@@ -42,7 +42,7 @@
       
       strArr.push('<div class="m ' + when + '">');
       members.forEach(function (m, index) {
-        strArr.push('<img src="assets/images/photo/'+ m.photo +'" alt="'+ m.name +'" data-when="'+ m.when +'" data-index="'+ index +'">');
+        strArr.push('<img src="assets/images/photo/'+ when +'/'+ m.photo +'" alt="'+ m.name +'" data-when="'+ m.when +'" data-index="'+ index +'">');
       });
       strArr.push('</div>');
     }
@@ -62,7 +62,7 @@
 
     strArr.push('<div class="close" id="close"></div>');
     strArr.push('<div class="content">');
-    strArr.push('<img src="assets/images/photo/'+ m.photo +'" alt="'+ m.name +'" data-when="'+ when +'">');
+    strArr.push('<img src="assets/images/photo/'+ when +'/'+ m.photo +'" alt="'+ m.name +'" data-when="'+ when +'">');
     strArr.push('<div class="info">');
     strArr.push('<h1>'+ m.name +' - '+ m.major +'</h1>');
     strArr.push('<p class="contact">');
@@ -84,9 +84,9 @@
     // 循环本届所有成员
     MEMBER[when].forEach(function (m, index) {
       if(index == tagIndex) {
-        strArr.push('<img src="assets/images/photo/'+ m.photo +'" alt="'+ m.name +'" data-when="'+ m.when +'" data-index="'+ index +'" class="current">');
+        strArr.push('<img src="assets/images/photo/'+ when +'/'+ m.photo +'" alt="'+ m.name +'" data-when="'+ m.when +'" data-index="'+ index +'" class="current">');
       } else {
-        strArr.push('<img src="assets/images/photo/'+ m.photo +'" alt="'+ m.name +'" data-when="'+ m.when +'" data-index="'+ index +'">');
+        strArr.push('<img src="assets/images/photo/'+ when +'/'+ m.photo +'" alt="'+ m.name +'" data-when="'+ m.when +'" data-index="'+ index +'">');
       }
     });
 
