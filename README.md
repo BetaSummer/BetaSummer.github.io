@@ -22,7 +22,7 @@ $ npm install
 $ npm run dev
 ```
 
-## Procation
+## Production
 
 ```bash
 $ npm run production
