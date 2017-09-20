@@ -2,6 +2,7 @@
   display: block;
   box-sizing: border-box;
   overflow: auto;
+  opacity: 0;
   transform: translateX(-100%) scale(.6);
 }
 
@@ -38,6 +39,7 @@
 }
 
 #about:target ~ .about{
+  opacity: 1;
   transform: translateX(0) scale(1);
 }
 

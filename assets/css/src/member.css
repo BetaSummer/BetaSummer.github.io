@@ -1,5 +1,6 @@
 .member{
   flex-direction: column-reverse;
+  opacity: 0;
   transform: translateX(100%) scale(.6);
 }
 
