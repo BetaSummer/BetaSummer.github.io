@@ -39,7 +39,7 @@
 #m3:target ~ .member .time-line,
 #m4:target ~ .member .time-line,
 #m5:target ~ .member .time-line,
-#m6:target ~ .member .time-line，
+#m6:target ~ .member .time-line,
 #m7:target ~ .member .time-line{
   opacity: 1;
   transform: translateY(0);
