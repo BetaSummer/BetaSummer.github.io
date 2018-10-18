@@ -1,1 +1,586 @@
-{"m7":[{"name":"胡龙正","when":"m7","major":"计算机科学与技术","info":"我叫胡龙正，来自计算机科学与技术二班。加入 β-house 的原因是想与一群有趣的人做一些有趣的事情，同时在其中相互学习、共同进步。最近对机器学习、数据分析这些方面比较感兴趣，最喜欢的编程语言是 Python，用它做的爬虫或是聊天机器人都很有趣，学习这些东西能给自己的生活带来一些乐趣。对黑客攻防也比较感兴趣，了解一些基本的手段能让自己注意有可能被利用的漏洞。有很多其他的爱好但只是粗略的了解还要多加学习，最后祝β-house越走越远，野蛮生长","photo":"hlz.jpg","contact":null},{"name":"倪颖鹤","when":"m7","major":"计算机","info":"我叫倪颖鹤，是 β-house 的第七届成员。擅长java语言，热衷于web开发与移动应用的开发。 β-house 不仅仅是一个工作室，更是一个分享知识的殿堂，在这里有技术能力雄厚的学长学姐为你悉心提供引导，有各种机会让你迅速成长。","photo":"nyh.jpg","contact":null},{"name":"金昱珂","when":"m7","major":"计算机","info":"不忘初心，方得始终。对网页制作方面比较感兴趣，希望在接下来的日子里和 β-house 的各位小伙伴做出更多工作成果。","photo":"jyk.jpg","contact":null},{"name":"张弛","when":"m7","major":"软件工程","info":"我叫张弛，来自软件工程专业。工作室会有资源分享，交互式的学习正是现在最缺乏的，能看到别人如何上进感觉对自己也是一种激励。未来，还没想好。～(￣▽￣～)~","photo":"zc.jpg","contact":null},{"name":"钱程杰","when":"m7","major":"计算机","info":"我是在大一下进入的 β-house，在这个工作室里我可以学到很多的东西。工作室中各个成员相互学习，讲授自己学到的新技术，共同进步，并且会进行一些实践活动，加强工作室成员的实践能力，将所学得的知识运用起来。我的目标是做一个全栈工程师，因为我觉得一个好的前端开发者需要知道后台的技术，一个好的后台开发者也需要知道前端的技术，所以在我看来做一个全栈工程师会有更好的发展前途，能有更多的就业机会。","photo":"qcj.jpg","contact":null},{"name":"张乐恺","when":"m7","major":"计算机","info":"β-house 有着超级浓厚的学习氛围。大佬学长贴心指导，引导我们接触更加广阔的知识面。在这个团队里面，每个人的求知欲和实战经验都会得到超大程度的提升。个人偏向喜好安卓和网页前端的学习，希望在学长学姐的引导和自己的努力下，实力越来越强。","photo":"zlk.jpg","contact":null},{"name":"何宇亨","when":"m7","major":"计算机","info":"我的性格比较开朗(也可以说不正经)，平时喜欢做一些有意思 、新奇的事情，跟单干比起来更偏向融入团队 β 工作室是一个属于我们的大家庭，每个人都可以把自己新学习的东西拿出来分享，在扩充我们的见识的同时远比我们从零开始去学新东西效率来的高，希望工作室能够越办越好吧。在开发方面比较偏向前端吧（做出一些完美的作品总有一些成就感）平时也不怎么爱打游戏，喜欢看看综艺，平时也一直有坚持背一些英语，希望自己除了计算机这一块有更全面的发展吧。","photo":"hyh.png","contact":null}],"m6":[{"name":"凌怡瑶","when":"m6","major":"软件工程","info":"一个努力学习，立志成为优秀码农的人！","photo":"lly.jpg","contact":null},{"name":"何熠","when":"m6","major":"软件工程","info":"I am not the best,but I try my best .","photo":"hy.jpg","contact":{"github":"https://github.com/RobinNX"}},{"name":"周诗栋","when":"m6","major":"软件工程","info":"电影爱好者；喜欢瞎折腾；不喜欢千篇一律的事物；希望能和志同道合的小伙伴们一起做有趣的事。","photo":"zsd.jpg","contact":{"github":"https://github.com/clarkzsd","blog":"http://www.zhoushidong.cc"}},{"name":"金飞燕","when":"m6","major":"工商管理","info":"对新奇、富有挑战的事我都勇敢尝试，愿我的能力能匹配得上我喜欢的事。","photo":"jfy.jpg","contact":null},{"name":"沈瑜","when":"m6","major":"工商管理","info":"对很多事有一闪而过的兴趣，是个白日梦想家，希望自己能沉淀下来，把兴趣多付诸实践。学而不思则罔，思而不学则殆。","photo":"sy.jpg","contact":null},{"name":"卢孔杭","when":"m6","major":"软件工程","info":"喜欢折腾东西，对于自己已经决定了的事情，就一定要坚持做完。","photo":"lkh.jpg","contact":{"github":"https://github.com/Hannith","blog":"http://www.lukonghang.com"}},{"name":"周一鸣","when":"m6","major":"软件工程","info":"活在纠结中努力不让自己后悔。我还是个铲屎官来着。","photo":"zym.jpg","contact":{"github":"https://github.com/ZYDforever","blog":"http://www.yiniaodanqingjv.com"}},{"name":"唐良栋","when":"m6","major":"软件工程","info":"向往简单的生活，身边有一群懂我，理解我的人。希望β-house 能一直传承下去，一直伴随着我们的青春。","photo":"tld.jpg","contact":{"github":"https://github.com/tangliangdong","blog":"http://www.tangliangdong.com"}}],"m5":[{"name":"李祥","when":"m5","major":"通信工程","info":"向往优雅地写代码；向往优雅地过生活，向往优雅地走人生。希望β-house一直优雅地走在远方，也希望自己能找到为之奋斗一生的事。最后一句最重要：知行合一，开心就好。","photo":"lx.jpg","contact":null},{"name":"洪涵","when":"m5","major":"工业设计","photo":"hh.jpg","contact":null,"info":"少言多行梦想成为技术宅和大触betaのみんなが大好き"},{"name":"黄徐涛","when":"m5","major":"计算机科学与技术","photo":"hxt.jpg","contact":{"blog":"https://blog.hxtao.site/","site":"https://hxtao.site/","github":"https://github.com/huangxutao"},"info":"热爱生活，热爱前端，还爱折腾；...怎么说呢，学习前端既是一件事比较累的事情，但又不乏欢乐，尤其是在beta这个大家庭中欢乐就更多了；so,感谢beta为我提供了一个良好的学习平台,还有美丽的学姐和帅气的学长们；最后仅以老乔的一句话献给自己以及所有技术宅：stay Hungry Stay Foolish."},{"name":"任丰烨","when":"m5","major":"软件工程","info":"温故知新 学无止境 在程序猴的世界里没有不可能<i>-为什么要打代码-因为创意就在那里<i/>","photo":"rfy.jpg","contact":{"github":"https://github.com/winnd","blog":"http://winnd.github.io/"}},{"name":"王鑫泽","when":"m5","major":"自动化","photo":"wxz.jpg","contact":null,"info":"热爱技术，正在学习iOS开发，喜欢极简风格，爱音乐，对复古的爵士乐和老电影没有抵抗力。渴望一种简单生活，有些奇奇怪怪的爱好，有时是三分钟热度，有时是热爱，可能想要尝试不同事物，我现在还没有能力去做我自己，做我所想，为了这想要的生活，我会拼劲全力。你若盛开，清风自来。"},{"name":"徐成超","when":"m5","major":"计算机科学与技术","info":"爱编程，爱后台，爱前端，博爱一身，妾身就是做不到样样通，还是努力敲敲代码，看看后台吧。跟你们说个冷笑话嗷，杀一个程序员不需要用枪，改三次需求就可以了。哈哈哈哈！","photo":"xcc.jpg","contact":null},{"name":"周宇涛","when":"m5","major":"软件工程","photo":"zyt.jpg","contact":{"blog":"http://js-ninja.cn/"},"info":"What difference does it make between people and salty fish if men don‘t have dreams?!"}],"m4":[{"name":"李璐慧","when":"m4","major":"软件工程","info":"做喜欢的事情认真的","photo":"llh.jpg","contact":{"github":"https://github.com/LDingLDing"}},{"name":"黄炳炳","when":"m4","major":"工商管理","photo":"hbb.jpg","contact":{"instagram":"https://www.instagram.com/ahbing.huang/","site":"http://ahbing.me","github":"https://github.com/ahbing"},"info":"我认认真真的反思了一下,我几乎不可能有机会改变世界。去改良我身边的一些事情，才是我应该做的，当然是和工作室的小伙伴一起。"},{"name":"黄琳琅","when":"m4","major":"产品设计","info":"简简单单，好好生活，好好爱自己。努力成为想要成为的人","photo":"hll.jpg","contact":null},{"name":"黄丽雅","when":"m4","major":"产品设计","photo":"hly.jpg","contact":{"weibo":"http://weibo.com/274044995?refer_flag=1001030101_&is_hot=1"},"info":"我想用长得不一样的脑子来讲我对世界的认知任何一种表达任何一种语言都是为了能与你一起玩耍这次我们用代码好不好=皿="},{"name":"李育强","when":"m4","major":"网络工程","info":"爱美剧，爱音乐；爱β-house，爱生活。希望成为一个能够游遍全世界的技术宅。","photo":"lyq.jpg","contact":null},{"name":"泮斌俊","when":"m4","major":"软件工程","info":"对移动端比较感兴趣，喜欢研究各类软件。","photo":"pbj.jpg","contact":null},{"name":"吴冰清","when":"m4","major":"财务管理","info":"爱旅游，爱摄影，爱美食爱和图片打交道，时刻记录生活喜欢把生活变成影像留存的感觉多去尝试，不怕伤痕也不怕失败，找到自己热爱的方向做喜欢的事，走喜欢的路。","photo":"wbq.jpg","contact":null},{"name":"王涛","when":"m4","major":"软件工程","info":"习惯有计划的生活，反感浪费时间的事，热爱前端的所有技术，喜欢收集各种前端特效，看其中的代码，希望能学以致用。热爱β-house，希望在这里能让自己变成强者。未来我希望能创办自己的网站（如淘宝，新浪...）","photo":"wt.jpg","contact":null},{"name":"许骏宇","when":"m4","major":"通信工程","photo":"xjy.jpg","contact":{"blog":"http://imhype.github.io/","github":"https://github.com/ImHype"},"info":"会果断的做自己喜欢的事情，时刻提醒自己 My Dream,My Love,My done.Just For Fun!"},{"name":"余刚","when":"m4","major":"软件工程","info":"18岁的我，对任何事都有好奇心，坚信着EvErYthing Will bE Ok ！","photo":"yg.jpg","contact":null},{"name":"虞俊苗","when":"m4","major":"通信工程","info":"喜欢从事自己感兴趣的事情，要么不做，要做就要做好。未来很长，希望能和β-house的小伙伴慢慢欣赏未来路上的风景。","photo":"yjm.jpg","contact":null},{"name":"朱崇磊","when":"m4","major":"计算机科学与技术","info":"热爱睡觉，希望每天都有进步","photo":"zcl.jpg","contact":null}],"m3":[{"name":"陈茜","when":"m3","major":"工业设计","photo":"cq.jpg","contact":null,"info":"热爱服装设计，希望可以成为一名设计师。"},{"name":"陈显烽","when":"m3","major":"电气工程与自动化","info":"专注后台，做个不落俗套的文艺青年。我希望身边一切安好，继续精彩！ ","photo":"cxf.jpg","contact":null},{"name":"胡鹏飞","when":"m3","major":"软件工程","info":"热爱技术，希望每天有所进步。","photo":"hpf.jpg","contact":{"blog":"http://hupengfei.com"}},{"name":"李晓菲","when":"m3","major":"通信工程","info":"热爱吃喝玩。。希望每天都有好心情，不愁吃喝。。","photo":"lxf.jpg","contact":null},{"name":"李毅","when":"m3","major":"通信工程","info":"热爱Photography Html/Css Php,坚信Your Future Is Created By What {You Do Today}","photo":"ly.jpg","contact":{"blog":"http://liyi.it/"}},{"name":"麻凯倩","when":"m3","major":"通信工程","photo":"mkq.jpg","contact":{"github":"https://github.com/makaiqian","blog":"http://makaiqian.com/"},"info":"热爱前端，喜欢html5和css3，在学习JavaScript中，对各种好玩的有趣的事情都很感兴趣，但是一旦认定了的事情就会一直坚持下去。最喜欢用兴趣去学习，喜欢充满正能量的每一天！希望工作室的每一个人越走越好~"},{"name":"项梦霞","when":"m3","major":"计算机科学与技术","info":"进阶前端之路，特长国画，爱音乐，爱美食！不喜欢敲代码，可一旦决定了，就充满热情地去奋斗吧——前端攻城狮！","photo":"xmx.jpg","contact":null},{"name":"夏之韵","when":"m3","major":"信息管理与信息系统","info":"热爱祖国、热爱betahouse、热爱音乐前端旅游……喜欢什么就做什么。It's me！","photo":"xzy.jpg","contact":null},{"name":"杨永鑫","when":"m3","major":"计算机","info":"热爱前端，喜欢html5和css3，我希望每一天都是正能量！","photo":"yyx.jpg","contact":null},{"name":"郑琳","when":"m3","major":"工业设计","info":"I like design ，创意是设计的源泉。我不怕别人拒绝，最怕自己不坚持。","photo":"zeal.jpg","contact":null}],"m2":[{"name":"鲍晓峰","when":"m2","major":"机械设计制造及其自动化","info":"热爱机械设计和网络，希望能设计一款外观靓丽功能实用的创新产品。","photo":"bxf.jpg","contact":null},{"name":"胡钟钦","when":"m2","major":"机械设计制造及其自动化","info":"热爱生活热爱运动热爱音乐，希望快乐生活每一天。","photo":"hzq.jpg","contact":null},{"name":"卢静","when":"m2","major":"计算机科学与技术","info":"热爱爬山,看书,怎么轻松怎么来,希望天天开心,吃麻麻香,身体麻麻棒儿,现就职于宁波金唐软件股份有限公司,任软件测试。","photo":"lj.jpg","contact":null},{"name":"孙京","when":"m2","major":"电子信息技术及仪器","info":"热爱编程、下象棋，希望以后成为高级软件工程师。","photo":"sj.jpg","contact":null},{"name":"沈逸闻","when":"m2","major":"通信工程","info":"热爱ACG，游离在二次元和三次元之间的2.5次元人_(:з」∠)_ 希望以后成为网络程师。","photo":"syw.jpg","contact":null},{"name":"王妤婷","when":"m2","major":"财务管理","info":"热爱摄影旅游，希望环游世界，现工作省直住房基金管理中心。","photo":"wyt.jpg","contact":null},{"name":"于川杰","when":"m2","major":"计算机","info":"喜欢打游戏，喜欢打篮球，感觉自己什么事都可以搞定，自大的家伙总有一天要遭到报应，于是被现实狠狠的射中了膝盖。终究觉得还是脚踏实地认认真真的做事情比较靠谱。现工作于浙江省建工集团交通公司。","photo":"ycj.jpg","contact":null},{"name":"周滢","when":"m2","major":"财务管理","info":"热爱:睡觉，希望:有钱，暂时工作单位:浙江汇信进出口集团股份有限公司。","photo":"zy.jpg","contact":null}],"m1":[{"name":"陈昌迪","when":"m1","major":"金融学","info":"现就职于Vobile Inc热爱产品设计、足球、音乐希望和喜欢的人做喜欢的事。","photo":"ccd.jpg","contact":null},{"name":"何泽骅","when":"m1","major":"电子信息科学与技术","info":"Doing what in beta-house: Linux System Administrator. Interested in: Arduino, Fedora, linguistics, NASA, Power Electronic, tour, WOW. Master of Engineering at Oregon State University . What I want to say is: 조선민주주의인민공화국 만세! 21세기의 태양 김정은 동지 만세!","photo":"hzh.jpg","contact":null},{"name":"孙镔","when":"m1","major":"金融","info":"摄影和数码产品发烧友，希望用镜头去记录身边的各种美好。目前的工作单位上海工商行政管理局。 ","photo":"sb.jpg","contact":null},{"name":"陶靖","when":"m1","major":"计算机","info":"计算机，热爱足球，希望大家都能在追求梦想的道路上阔步前行，刚硕士毕业，在美国一家公司工作。","photo":"tj.jpg","contact":null},{"name":"谢嘉俊","when":"m1","major":"工业设计","info":"设计界和视频界的大咖,现就职于阿里巴巴。","photo":"xjj.jpg","contact":null},{"name":"朱力","when":"m1","major":"通信工程","info":"热爱一切可以折腾的东西，例如Minecraft，编程，热爱电影和音乐，正在刷IMDB Top 250。希望 β-house 可以一直持续下去，能够让每一个成员，获得快乐，获得成长。目前就职于天猫。","photo":"zl.jpg","contact":{"github":"https://github.com/lisposter","blog":"http://zhu.li/"}}]}
+{
+    "m8": [
+        {
+            "name": "杨瑞林",
+            "when": "m8",
+            "major": "计算机科学与技术",
+            "info": "xuexi",
+            "photo": "yrl.jpg",
+            "contact": {
+                "github": "https://github.com/Ruil1n",
+                "blog": "http://rui0.cn/"
+            }
+        },
+        {
+            "name": "蒋柯",
+            "when": "m8",
+            "major": "软件工程",
+            "info": "得即高歌失即休 多愁多恨亦悠悠 今朝有酒今朝醉 明日愁来明日愁",
+            "photo": "jk.jpg",
+            "contact": {
+                "github": "https://github.com/MessiahJK",
+                "blog": "http://messiahjk.xin/"
+            }
+        },
+        {
+            "name": "顾峪成",
+            "when": "m8",
+            "major": "计算机科学与技术",
+            "info": "对未知保持好奇，在这里，遇到了一群志同道合的小伙伴。爱好后端技术的学习，希望自己有所积淀吧。既然选择去远方，便只顾风雨兼程，β-house，一起越走越远。",
+            "photo": "gyc.jpg",
+            "contact": null
+        }
+    ],
+    "m7": [
+        {
+            "name": "王成",
+            "when": "m7",
+            "major": "计算机科学与技术",
+            "info": "守望先锋半藏玩家，会打昆特牌。没有太多运动和音乐天赋，但是偶尔会打打乒乓，拉拉二胡。《黑客与安全技术指南》作者。",
+            "photo": "wc.png",
+            "contact": {
+                "github": "https://github.com/CoinkWang",
+                "blog": "https://coink.wang"
+            }
+        },
+        {
+            "name": "胡龙正",
+            "when": "m7",
+            "major": "计算机科学与技术",
+            "info": "我叫胡龙正，来自计算机科学与技术二班。加入 β-house 的原因是想与一群有趣的人做一些有趣的事情，同时在其中相互学习、共同进步。最近对机器学习、数据分析这些方面比较感兴趣，最喜欢的编程语言是 Python，用它做的爬虫或是聊天机器人都很有趣，学习这些东西能给自己的生活带来一些乐趣。对黑客攻防也比较感兴趣，了解一些基本的手段能让自己注意有可能被利用的漏洞。有很多其他的爱好但只是粗略的了解还要多加学习，最后祝β-house越走越远，野蛮生长",
+            "photo": "hlz.jpg",
+            "contact": null
+        },
+        {
+            "name": "倪颖鹤",
+            "when": "m7",
+            "major": "计算机",
+            "info": "我叫倪颖鹤，是 β-house 的第七届成员。擅长java语言，热衷于web开发与移动应用的开发。 β-house 不仅仅是一个工作室，更是一个分享知识的殿堂，在这里有技术能力雄厚的学长学姐为你悉心提供引导，有各种机会让你迅速成长。",
+            "photo": "nyh.jpg",
+            "contact": null
+        },
+        {
+            "name": "金昱珂",
+            "when": "m7",
+            "major": "计算机",
+            "info": "不忘初心，方得始终。对网页制作方面比较感兴趣，希望在接下来的日子里和 β-house 的各位小伙伴做出更多工作成果。",
+            "photo": "jyk.jpg",
+            "contact": null
+        },
+        {
+            "name": "张弛",
+            "when": "m7",
+            "major": "软件工程",
+            "info": "我叫张弛，来自软件工程专业。工作室会有资源分享，交互式的学习正是现在最缺乏的，能看到别人如何上进感觉对自己也是一种激励。未来，还没想好。～(￣▽￣～)~",
+            "photo": "zc.jpg",
+            "contact": null
+        },
+        {
+            "name": "钱程杰",
+            "when": "m7",
+            "major": "软件工程",
+            "info": "我是在大一下进入的 β-house，在这个工作室里我可以学到很多的东西。工作室中各个成员相互学习，讲授自己学到的新技术，共同进步，并且会进行一些实践活动，加强工作室成员的实践能力，将所学得的知识运用起来。我的目标是做一个全栈工程师，因为我觉得一个好的前端开发者需要知道后台的技术，一个好的后台开发者也需要知道前端的技术，所以在我看来做一个全栈工程师会有更好的发展前途，能有更多的就业机会。",
+            "photo": "qcj.jpg",
+            "contact": null
+        },
+        {
+            "name": "张乐恺",
+            "when": "m7",
+            "major": "计算机",
+            "info": "β-house 有着超级浓厚的学习氛围。大佬学长贴心指导，引导我们接触更加广阔的知识面。在这个团队里面，每个人的求知欲和实战经验都会得到超大程度的提升。个人偏向喜好安卓和网页前端的学习，希望在学长学姐的引导和自己的努力下，实力越来越强。",
+            "photo": "zlk.jpg",
+            "contact": null
+        },
+        {
+            "name": "何宇亨",
+            "when": "m7",
+            "major": "计算机",
+            "info": "我的性格比较开朗(也可以说不正经)，平时喜欢做一些有意思 、新奇的事情，跟单干比起来更偏向融入团队 β 工作室是一个属于我们的大家庭，每个人都可以把自己新学习的东西拿出来分享，在扩充我们的见识的同时远比我们从零开始去学新东西效率来的高，希望工作室能够越办越好吧。在开发方面比较偏向前端吧（做出一些完美的作品总有一些成就感）平时也不怎么爱打游戏，喜欢看看综艺，平时也一直有坚持背一些英语，希望自己除了计算机这一块有更全面的发展吧。",
+            "photo": "hyh.png",
+            "contact": null
+        },
+        {
+            "name": "杜宪高",
+            "when": "m7",
+            "major": "计算机科学有技术",
+            "info": "在beta留个沙发印，哈哈哈",
+            "photo": "dxg.jpg",
+            "contact": null
+        }
+    ],
+    "m6": [
+        {
+            "name": "殷晓明",
+            "when": "m6",
+            "major": "计算机科学与技术",
+            "info": "希望自己能成为一个有趣的人吧。",
+            "photo": "yxm.jpg",
+            "contact": {
+                "github": "https://github.com/Outside-man",
+                "blog": "https://outside-man.github.io"
+            }
+        },
+        {
+            "name": "凌怡瑶",
+            "when": "m6",
+            "major": "软件工程",
+            "info": "",
+            "photo": "lly.jpg",
+            "contact": null
+        },
+        {
+            "name": "何熠",
+            "when": "m6",
+            "major": "软件工程",
+            "info": "I am not the best,but I try my best .",
+            "photo": "hy.jpg",
+            "contact": {
+                "github": "https://github.com/RobinNX"
+            }
+        },
+        {
+            "name": "周诗栋",
+            "when": "m6",
+            "major": "软件工程",
+            "info": "电影爱好者；喜欢瞎折腾；不喜欢千篇一律的事物；希望能和志同道合的小伙伴们一起做有趣的事。",
+            "photo": "zsd.jpg",
+            "contact": {
+                "github": "https://github.com/clarkzsd",
+                "blog": "http://www.zhoushidong.cc"
+            }
+        },
+        {
+            "name": "金飞燕",
+            "when": "m6",
+            "major": "工商管理",
+            "info": "对新奇、富有挑战的事我都勇敢尝试，愿我的能力能匹配得上我喜欢的事。",
+            "photo": "jfy.jpg",
+            "contact": null
+        },
+        {
+            "name": "沈瑜",
+            "when": "m6",
+            "major": "工商管理",
+            "info": "对很多事有一闪而过的兴趣，是个白日梦想家，希望自己能沉淀下来，把兴趣多付诸实践。学而不思则罔，思而不学则殆。",
+            "photo": "sy.jpg",
+            "contact": null
+        },
+        {
+            "name": "卢孔杭",
+            "when": "m6",
+            "major": "软件工程",
+            "info": "喜欢折腾东西，对于自己已经决定了的事情，就一定要坚持做完。",
+            "photo": "lkh.jpg",
+            "contact": {
+                "github": "https://github.com/Hannith",
+                "blog": "http://www.lukonghang.com"
+            }
+        },
+        {
+            "name": "周一鸣",
+            "when": "m6",
+            "major": "软件工程",
+            "info": "活在纠结中努力不让自己后悔。我还是个铲屎官来着。",
+            "photo": "zym.jpg",
+            "contact": {
+                "github": "https://github.com/ZYDforever",
+                "blog": "http://www.yiniaodanqingjv.com"
+            }
+        },
+        {
+            "name": "唐良栋",
+            "when": "m6",
+            "major": "软件工程",
+            "info": "向往简单的生活，身边有一群懂我，理解我的人。希望β-house 能一直传承下去，一直伴随着我们的青春。",
+            "photo": "tld.jpg",
+            "contact": {
+                "github": "https://github.com/tangliangdong",
+                "blog": "http://www.tangliangdong.com"
+            }
+        }
+    ],
+    "m5": [
+        {
+            "name": "李祥",
+            "when": "m5",
+            "major": "通信工程",
+            "info": "向往优雅地写代码；向往优雅地过生活，向往优雅地走人生。希望β-house一直优雅地走在远方，也希望自己能找到为之奋斗一生的事。最后一句最重要：知行合一，开心就好。",
+            "photo": "lx.jpg",
+            "contact": null
+        },
+        {
+            "name": "洪涵",
+            "when": "m5",
+            "major": "工业设计",
+            "photo": "hh.jpg",
+            "contact": null,
+            "info": "少言多行梦想成为技术宅和大触betaのみんなが大好き"
+        },
+        {
+            "name": "黄徐涛",
+            "when": "m5",
+            "major": "计算机科学与技术",
+            "photo": "hxt.jpg",
+            "contact": {
+                "blog": "https://blog.hxtao.site/",
+                "site": "https://hxtao.site/",
+                "github": "https://github.com/huangxutao"
+            },
+            "info": "热爱生活，热爱前端，还爱折腾；...怎么说呢，学习前端既是一件事比较累的事情，但又不乏欢乐，尤其是在beta这个大家庭中欢乐就更多了；so,感谢beta为我提供了一个良好的学习平台,还有美丽的学姐和帅气的学长们；最后仅以老乔的一句话献给自己以及所有技术宅：stay Hungry Stay Foolish."
+        },
+        {
+            "name": "任丰烨",
+            "when": "m5",
+            "major": "软件工程",
+            "info": "温故知新 学无止境 在程序猴的世界里没有不可能<i>-为什么要打代码-因为创意就在那里<i/>",
+            "photo": "rfy.jpg",
+            "contact": {
+                "github": "https://github.com/winnd",
+                "blog": "http://winnd.github.io/"
+            }
+        },
+        {
+            "name": "王鑫泽",
+            "when": "m5",
+            "major": "自动化",
+            "photo": "wxz.jpg",
+            "contact": null,
+            "info": "热爱技术，正在学习iOS开发，喜欢极简风格，爱音乐，对复古的爵士乐和老电影没有抵抗力。渴望一种简单生活，有些奇奇怪怪的爱好，有时是三分钟热度，有时是热爱，可能想要尝试不同事物，我现在还没有能力去做我自己，做我所想，为了这想要的生活，我会拼劲全力。你若盛开，清风自来。"
+        },
+        {
+            "name": "徐成超",
+            "when": "m5",
+            "major": "计算机科学与技术",
+            "info": "爱编程，爱后台，爱前端，博爱一身，妾身就是做不到样样通，还是努力敲敲代码，看看后台吧。跟你们说个冷笑话嗷，杀一个程序员不需要用枪，改三次需求就可以了。哈哈哈哈！",
+            "photo": "xcc.jpg",
+            "contact": null
+        },
+        {
+            "name": "周宇涛",
+            "when": "m5",
+            "major": "软件工程",
+            "photo": "zyt.jpg",
+            "contact": {
+                "blog": "http://js-ninja.cn/"
+            },
+            "info": "What difference does it make between people and salty fish if men don‘t have dreams?!"
+        }
+    ],
+    "m4": [
+        {
+            "name": "李璐慧",
+            "when": "m4",
+            "major": "软件工程",
+            "info": "做喜欢的事情认真的",
+            "photo": "llh.jpg",
+            "contact": {
+                "github": "https://github.com/LDingLDing"
+            }
+        },
+        {
+            "name": "黄炳炳",
+            "when": "m4",
+            "major": "工商管理",
+            "photo": "hbb.jpg",
+            "contact": {
+                "instagram": "https://www.instagram.com/ahbing.huang/",
+                "site": "http://ahbing.me",
+                "github": "https://github.com/ahbing"
+            },
+            "info": "我认认真真的反思了一下,我几乎不可能有机会改变世界。去改良我身边的一些事情，才是我应该做的，当然是和工作室的小伙伴一起。"
+        },
+        {
+            "name": "黄琳琅",
+            "when": "m4",
+            "major": "产品设计",
+            "info": "简简单单，好好生活，好好爱自己。努力成为想要成为的人",
+            "photo": "hll.jpg",
+            "contact": null
+        },
+        {
+            "name": "黄丽雅",
+            "when": "m4",
+            "major": "产品设计",
+            "photo": "hly.jpg",
+            "contact": {
+                "weibo": "http://weibo.com/274044995?refer_flag=1001030101_&is_hot=1"
+            },
+            "info": "我想用长得不一样的脑子来讲我对世界的认知任何一种表达任何一种语言都是为了能与你一起玩耍这次我们用代码好不好=皿="
+        },
+        {
+            "name": "李育强",
+            "when": "m4",
+            "major": "网络工程",
+            "info": "爱美剧，爱音乐；爱β-house，爱生活。希望成为一个能够游遍全世界的技术宅。",
+            "photo": "lyq.jpg",
+            "contact": null
+        },
+        {
+            "name": "泮斌俊",
+            "when": "m4",
+            "major": "软件工程",
+            "info": "对移动端比较感兴趣，喜欢研究各类软件。",
+            "photo": "pbj.jpg",
+            "contact": null
+        },
+        {
+            "name": "吴冰清",
+            "when": "m4",
+            "major": "财务管理",
+            "info": "爱旅游，爱摄影，爱美食爱和图片打交道，时刻记录生活喜欢把生活变成影像留存的感觉多去尝试，不怕伤痕也不怕失败，找到自己热爱的方向做喜欢的事，走喜欢的路。",
+            "photo": "wbq.jpg",
+            "contact": null
+        },
+        {
+            "name": "王涛",
+            "when": "m4",
+            "major": "软件工程",
+            "info": "习惯有计划的生活，反感浪费时间的事，热爱前端的所有技术，喜欢收集各种前端特效，看其中的代码，希望能学以致用。热爱β-house，希望在这里能让自己变成强者。未来我希望能创办自己的网站（如淘宝，新浪...）",
+            "photo": "wt.jpg",
+            "contact": null
+        },
+        {
+            "name": "许骏宇",
+            "when": "m4",
+            "major": "通信工程",
+            "photo": "xjy.jpg",
+            "contact": {
+                "blog": "http://imhype.github.io/",
+                "github": "https://github.com/ImHype"
+            },
+            "info": "会果断的做自己喜欢的事情，时刻提醒自己 My Dream,My Love,My done.Just For Fun!"
+        },
+        {
+            "name": "余刚",
+            "when": "m4",
+            "major": "软件工程",
+            "info": "18岁的我，对任何事都有好奇心，坚信着EvErYthing Will bE Ok ！",
+            "photo": "yg.jpg",
+            "contact": null
+        },
+        {
+            "name": "虞俊苗",
+            "when": "m4",
+            "major": "通信工程",
+            "info": "喜欢从事自己感兴趣的事情，要么不做，要做就要做好。未来很长，希望能和β-house的小伙伴慢慢欣赏未来路上的风景。",
+            "photo": "yjm.jpg",
+            "contact": null
+        },
+        {
+            "name": "朱崇磊",
+            "when": "m4",
+            "major": "计算机科学与技术",
+            "info": "热爱睡觉，希望每天都有进步",
+            "photo": "zcl.jpg",
+            "contact": null
+        }
+    ],
+    "m3": [
+        {
+            "name": "陈茜",
+            "when": "m3",
+            "major": "工业设计",
+            "photo": "cq.jpg",
+            "contact": null,
+            "info": "热爱服装设计，希望可以成为一名设计师。"
+        },
+        {
+            "name": "陈显烽",
+            "when": "m3",
+            "major": "电气工程与自动化",
+            "info": "专注后台，做个不落俗套的文艺青年。我希望身边一切安好，继续精彩！ ",
+            "photo": "cxf.jpg",
+            "contact": null
+        },
+        {
+            "name": "胡鹏飞",
+            "when": "m3",
+            "major": "软件工程",
+            "info": "热爱技术，希望每天有所进步。",
+            "photo": "hpf.jpg",
+            "contact": {
+                "blog": "http://hupengfei.com"
+            }
+        },
+        {
+            "name": "李晓菲",
+            "when": "m3",
+            "major": "通信工程",
+            "info": "热爱吃喝玩。。希望每天都有好心情，不愁吃喝。。",
+            "photo": "lxf.jpg",
+            "contact": null
+        },
+        {
+            "name": "李毅",
+            "when": "m3",
+            "major": "通信工程",
+            "info": "热爱Photography Html/Css Php,坚信Your Future Is Created By What {You Do Today}",
+            "photo": "ly.jpg",
+            "contact": {
+                "blog": "http://liyi.it/"
+            }
+        },
+        {
+            "name": "麻凯倩",
+            "when": "m3",
+            "major": "通信工程",
+            "photo": "mkq.jpg",
+            "contact": {
+                "github": "https://github.com/makaiqian",
+                "blog": "http://makaiqian.com/"
+            },
+            "info": "热爱前端，喜欢html5和css3，在学习JavaScript中，对各种好玩的有趣的事情都很感兴趣，但是一旦认定了的事情就会一直坚持下去。最喜欢用兴趣去学习，喜欢充满正能量的每一天！希望工作室的每一个人越走越好~"
+        },
+        {
+            "name": "项梦霞",
+            "when": "m3",
+            "major": "计算机科学与技术",
+            "info": "进阶前端之路，特长国画，爱音乐，爱美食！不喜欢敲代码，可一旦决定了，就充满热情地去奋斗吧——前端攻城狮！",
+            "photo": "xmx.jpg",
+            "contact": null
+        },
+        {
+            "name": "夏之韵",
+            "when": "m3",
+            "major": "信息管理与信息系统",
+            "info": "热爱祖国、热爱betahouse、热爱音乐前端旅游……喜欢什么就做什么。It's me！",
+            "photo": "xzy.jpg",
+            "contact": null
+        },
+        {
+            "name": "杨永鑫",
+            "when": "m3",
+            "major": "计算机",
+            "info": "热爱前端，喜欢html5和css3，我希望每一天都是正能量！",
+            "photo": "yyx.jpg",
+            "contact": null
+        },
+        {
+            "name": "郑琳",
+            "when": "m3",
+            "major": "工业设计",
+            "info": "I like design ，创意是设计的源泉。我不怕别人拒绝，最怕自己不坚持。",
+            "photo": "zeal.jpg",
+            "contact": null
+        }
+    ],
+    "m2": [
+        {
+            "name": "鲍晓峰",
+            "when": "m2",
+            "major": "机械设计制造及其自动化",
+            "info": "热爱机械设计和网络，希望能设计一款外观靓丽功能实用的创新产品。",
+            "photo": "bxf.jpg",
+            "contact": null
+        },
+        {
+            "name": "胡钟钦",
+            "when": "m2",
+            "major": "机械设计制造及其自动化",
+            "info": "热爱生活热爱运动热爱音乐，希望快乐生活每一天。",
+            "photo": "hzq.jpg",
+            "contact": null
+        },
+        {
+            "name": "卢静",
+            "when": "m2",
+            "major": "计算机科学与技术",
+            "info": "热爱爬山,看书,怎么轻松怎么来,希望天天开心,吃麻麻香,身体麻麻棒儿,现就职于宁波金唐软件股份有限公司,任软件测试。",
+            "photo": "lj.jpg",
+            "contact": null
+        },
+        {
+            "name": "孙京",
+            "when": "m2",
+            "major": "电子信息技术及仪器",
+            "info": "热爱编程、下象棋，希望以后成为高级软件工程师。",
+            "photo": "sj.jpg",
+            "contact": null
+        },
+        {
+            "name": "沈逸闻",
+            "when": "m2",
+            "major": "通信工程",
+            "info": "热爱ACG，游离在二次元和三次元之间的2.5次元人_(:з」∠)_ 希望以后成为网络程师。",
+            "photo": "syw.jpg",
+            "contact": null
+        },
+        {
+            "name": "王妤婷",
+            "when": "m2",
+            "major": "财务管理",
+            "info": "热爱摄影旅游，希望环游世界，现工作省直住房基金管理中心。",
+            "photo": "wyt.jpg",
+            "contact": null
+        },
+        {
+            "name": "于川杰",
+            "when": "m2",
+            "major": "计算机",
+            "info": "喜欢打游戏，喜欢打篮球，感觉自己什么事都可以搞定，自大的家伙总有一天要遭到报应，于是被现实狠狠的射中了膝盖。终究觉得还是脚踏实地认认真真的做事情比较靠谱。现工作于浙江省建工集团交通公司。",
+            "photo": "ycj.jpg",
+            "contact": null
+        },
+        {
+            "name": "周滢",
+            "when": "m2",
+            "major": "财务管理",
+            "info": "热爱:睡觉，希望:有钱，暂时工作单位:浙江汇信进出口集团股份有限公司。",
+            "photo": "zy.jpg",
+            "contact": null
+        }
+    ],
+    "m1": [
+        {
+            "name": "陈昌迪",
+            "when": "m1",
+            "major": "金融学",
+            "info": "现就职于Vobile Inc热爱产品设计、足球、音乐希望和喜欢的人做喜欢的事。",
+            "photo": "ccd.jpg",
+            "contact": null
+        },
+        {
+            "name": "何泽骅",
+            "when": "m1",
+            "major": "电子信息科学与技术",
+            "info": "Doing what in beta-house: Linux System Administrator. Interested in: Arduino, Fedora, linguistics, NASA, Power Electronic, tour, WOW. Master of Engineering at Oregon State University . What I want to say is: 조선민주주의인민공화국 만세! 21세기의 태양 김정은 동지 만세!",
+            "photo": "hzh.jpg",
+            "contact": null
+        },
+        {
+            "name": "孙镔",
+            "when": "m1",
+            "major": "金融",
+            "info": "摄影和数码产品发烧友，希望用镜头去记录身边的各种美好。目前的工作单位上海工商行政管理局。 ",
+            "photo": "sb.jpg",
+            "contact": null
+        },
+        {
+            "name": "陶靖",
+            "when": "m1",
+            "major": "计算机",
+            "info": "计算机，热爱足球，希望大家都能在追求梦想的道路上阔步前行，刚硕士毕业，在美国一家公司工作。",
+            "photo": "tj.jpg",
+            "contact": null
+        },
+        {
+            "name": "谢嘉俊",
+            "when": "m1",
+            "major": "工业设计",
+            "info": "设计界和视频界的大咖,现就职于阿里巴巴。",
+            "photo": "xjj.jpg",
+            "contact": null
+        },
+        {
+            "name": "朱力",
+            "when": "m1",
+            "major": "通信工程",
+            "info": "热爱一切可以折腾的东西，例如Minecraft，编程，热爱电影和音乐，正在刷IMDB Top 250。希望 β-house 可以一直持续下去，能够让每一个成员，获得快乐，获得成长。目前就职于天猫。",
+            "photo": "zl.jpg",
+            "contact": {
+                "github": "https://github.com/lisposter",
+                "blog": "http://zhu.li/"
+            }
+        }
+    ]
+}
