@@ -1,7 +1,7 @@
 {
   "name": "beta2017",
   "version": "1.0.0",
-  "description": "beta-house 2017官网",
+  "description": "beta-house 官网",
   "main": "index.js",
   "scripts": {
     "production": "npm install && npm run build-css && npm run build-js && npm run rm-map",
@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BetaSummer/beta2017"
+    "url": "git+https://github.com/BetaSummer/BetaSummer.github.io.git"
   },
   "author": "huangxutao <h784124804@gmail.com> (https://hxtao.site/)",
   "license": "MIT",
