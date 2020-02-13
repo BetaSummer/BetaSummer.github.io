@@ -1,4 +1,25 @@
-{
+{   
+    "m9": [
+        {
+            "name": "xxx",
+            "when": "m9",
+            "major": "xxx",
+            "info": "xxx",
+            "photo": "xxx.jpg",
+            "contact": {
+                "github": "xxx",
+                "blog": "xxx"
+            }
+        },
+        {
+            "name": "xxx",
+            "when": "m9",
+            "major": "xxx",
+            "info": "xxx",
+            "photo": "xxx.jpg",
+            "contact": null
+        }
+    ],
     "m8": [
         {
             "name": "杨瑞林",
