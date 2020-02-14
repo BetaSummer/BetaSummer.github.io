@@ -1,7 +1,84 @@
 {   
     "m9": [
         {
-            "name": "xxx",
+            "name": "孙楠",
+            "when": "m9",
+            "major": "xxx",
+            "info": "xxx",
+            "photo": "xxx.jpg",
+            "contact": {
+                "github": "xxx",
+                "blog": "xxx"
+            }
+        },
+        {
+            "name": "金永顺",
+            "when": "m9",
+            "major": "xxx",
+            "info": "xxx",
+            "photo": "xxx.jpg",
+            "contact": {
+                "github": "xxx",
+                "blog": "xxx"
+            }
+        },
+        {
+            "name": "王珏盛",
+            "when": "m9",
+            "major": "xxx",
+            "info": "xxx",
+            "photo": "xxx.jpg",
+            "contact": {
+                "github": "xxx",
+                "blog": "xxx"
+            }
+        },
+        {
+            "name": "蔡羽杰",
+            "when": "m9",
+            "major": "xxx",
+            "info": "xxx",
+            "photo": "xxx.jpg",
+            "contact": {
+                "github": "xxx",
+                "blog": "xxx"
+            }
+        },
+        {
+            "name": "黄雪燕",
+            "when": "m9",
+            "major": "xxx",
+            "info": "xxx",
+            "photo": "xxx.jpg",
+            "contact": {
+                "github": "xxx",
+                "blog": "xxx"
+            }
+        },
+        {
+            "name": "卓熠亮",
+            "when": "m9",
+            "major": "xxx",
+            "info": "xxx",
+            "photo": "xxx.jpg",
+            "contact": {
+                "github": "xxx",
+                "blog": "xxx"
+            }
+        },
+        {
+            "name": "林勇俊",
+            "when": "m9",
+            "major": "xxx",
+            "info": "xxx",
+            "photo": "xxx.jpg",
+            "contact": {
+                "github": "xxx",
+                "blog": "xxx"
+            }
+        },
+        {
+            "name": "陈文伟",
             "when": "m9",
             "major": "xxx",
             "info": "xxx",
@@ -63,6 +140,17 @@
             "contact": {
             	"github": "https://github.com/cpp-wen",
                 "blog": "https://blog.nowcoder.net/caopeng"
+            }
+        },
+        {
+            "name": "黄耀辉",
+            "when": "m8",
+            "major": "计算机科学与技术",
+            "info": "xxx",
+            "photo": "xxx.jpg",
+            "contact": {
+            	"github": "xxx",
+                "blog": "xxx"
             }
         }
     ],
