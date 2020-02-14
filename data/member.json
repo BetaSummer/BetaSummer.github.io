@@ -12,12 +12,15 @@
             }
         },
         {
-            "name": "xxx",
+            "name": "曹鹏",
             "when": "m9",
-            "major": "xxx",
-            "info": "xxx",
-            "photo": "xxx.jpg",
-            "contact": null
+            "major": "计算机科学与技术",
+            "info": "年轻人不要熬夜",
+            "photo": "cp.jpg",
+            "contact": {
+            	"github": "https://github.com/cpp-wen",
+                "blog": "https://blog.nowcoder.net/caopeng"
+            }
         }
     ],
     "m8": [
