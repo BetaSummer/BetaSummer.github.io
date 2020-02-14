@@ -12,14 +12,14 @@
             }
         },
         {
-            "name": "曹鹏",
+            "name": "xxx",
             "when": "m9",
-            "major": "计算机科学与技术",
-            "info": "年轻人不要熬夜",
-            "photo": "cp.jpg",
+            "major": "xxx",
+            "info": "xxx",
+            "photo": "xxx.jpg",
             "contact": {
-            	"github": "https://github.com/cpp-wen",
-                "blog": "https://blog.nowcoder.net/caopeng"
+                "github": "xxx",
+                "blog": "xxx"
             }
         }
     ],
@@ -53,6 +53,17 @@
             "info": "对未知保持好奇，在这里，遇到了一群志同道合的小伙伴。爱好后端技术的学习，希望自己有所积淀吧。既然选择去远方，便只顾风雨兼程，β-house，一起越走越远。",
             "photo": "gyc.jpg",
             "contact": null
+        },
+        {
+            "name": "曹鹏",
+            "when": "m9",
+            "major": "计算机科学与技术",
+            "info": "年轻人不要熬夜",
+            "photo": "cp.jpg",
+            "contact": {
+            	"github": "https://github.com/cpp-wen",
+                "blog": "https://blog.nowcoder.net/caopeng"
+            }
         }
     ],
     "m7": [
