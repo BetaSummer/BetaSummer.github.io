@@ -22,7 +22,7 @@
     "type": "git",
     "url": "git+https://github.com/BetaSummer/BetaSummer.github.io.git"
   },
-  "author": "huangxutao <h784124804@gmail.com> (https://hxtao.site/)",
+  "author": "huangxutao <h784124804@gmail.com> (http://hxtao.xyz/)",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "6.7.7",

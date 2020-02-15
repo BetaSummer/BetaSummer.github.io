@@ -1,6 +1,7 @@
 (function() {
   // 常量
-  var MAX_RADIUS = 20;  
+  var PIXEL_RATIO = window.devicePixelRatio || 2;
+  var MAX_RADIUS = 20 * PIXEL_RATIO;
   // 数学计算相关
   var PI = Math.PI,
     random = Math.random,
@@ -10,7 +11,7 @@
   // 原型小球
   var ball = {
     color: 'rgba(255, 255, 255, 0.36)',
-    radius: 20,
+    radius: MAX_RADIUS,
     setColor: function (color) {
       this.color = color;
     },
@@ -28,8 +29,8 @@
 
   // 画布相关
   var canvas = document.querySelector('#canvas'),
-    clientWidth = window.innerWidth,
-    clientHeight = window.innerHeight,
+    clientWidth = window.innerWidth * PIXEL_RATIO,
+    clientHeight = window.innerHeight * PIXEL_RATIO,
     canvasWidth = clientWidth,
     canvasHeight = clientHeight,
     ctx = canvas.getContext('2d'),
@@ -70,7 +71,7 @@
     }
 
     ctx.beginPath();
-    ctx.lineWidth = 0.6;
+    ctx.lineWidth = 0.6 * PIXEL_RATIO;
     ctx.moveTo(pointA.x, pointA.y);
     ctx.lineTo(pointB.x, pointB.y);
     ctx.strokeStyle = 'rgba(255, 255, 255, '+ (1 - distance/limt) +')';
@@ -122,6 +123,8 @@
   }
 
   run();
+
+  canvas.style.transform = 'scale(0.5)';
 
   window.addEventListener('resize', function () {
     clientWidth = window.innerWidth;
