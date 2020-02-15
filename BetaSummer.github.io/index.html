@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="theme-color" content="#2196f3">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>β-house | 扬帆启程</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="full-screen" content="yes">
+  <meta name="x5-fullscreen" content="true" />
+  <meta name="x5-page-mode" content="app" />
+  <meta name="browsermode" content="application" />
+  <meta name="apple-touch-fullscreen" content="yes">
+  <meta name="keywords" content="杭州电子科技大学・信息工程学院；betahouse 技术团队；β-house family">
+  <meta name="description" content="β-house始于2012，是一个基于热爱与兴趣的专业网站建设技术团队，以实际项目为驱动力，主攻Web系统规划和开发、运维和服务器等多个方向，其成员主要由信息工程学院在校本科生组成，主旨在于提升团队成员在面对新事物的学习能力、动手实践能力、创新能力和团队协作精神">
+  <link rel="Shortcut Icon" href="/assets/favicon.ico" type="image/ico">
+  <link rel="stylesheet" href="assets/css/style.min.css">
+  <link rel="stylesheet" href="https://at.alicdn.com/t/font_iod5d9l3p8vkj4i.css">
+</head>
+<body>
+  <div class="loader" id="loader">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+
+  <!-- 画布/随机粒子 -->
+  <canvas id="canvas" width="1066" height="100"></canvas>
+
+  <!-- 钩子/锚点 -->
+  <div class="hook" id="wrapper"></div>
+  <div class="hook" id="member"></div>
+  <div class="hook" id="m1"></div>
+  <div class="hook" id="m2"></div>
+  <div class="hook" id="m3"></div>
+  <div class="hook" id="m4"></div>
+  <div class="hook" id="m5"></div>
+  <div class="hook" id="m6"></div>
+  <div class="hook" id="m7"></div>
+  <div class="hook" id="m8"></div>
+  <div class="hook" id="m9"></div>
+  <div class="hook" id="about"></div>
+
+  <!-- 首要 -->
+  <main class="wrapper" id="wrapper">
+    <h1>beta <./> house</h1>
+    <p>
+      <a href="#member" data-title="成员">
+        <i class="iconfont icon-member"></i>
+      </a>
+      <!-- <a href="http://zhizhi.betahouse.us/" data-title="博客">
+        <i class="iconfont icon-blog"></i>
+      </a> -->
+      <a href="https://github.com/BetaSummer" data-title="GitHub">
+        <i class="iconfont icon-github2"></i>
+      </a>
+      <a href="#about" data-title="About">
+        <i class="iconfont icon-info"></i>
+      </a>
+    </p>
+  </main>
+  
+  <!-- 成员 -->
+  <section class="member">
+    <div class="back"><a href="/#"><i class="iconfont icon-back"></i></a></div>
+    <div class="time-line">
+      <span class="title">Beta Family</span>
+      <a href="#m1" class="m m1" data-title="第一届">
+        <i class="iconfont icon-location"></i>
+      </a>
+      <a href="#m2" class="m m2" data-title="第二届">
+        <i class="iconfont icon-location"></i>
+      </a>
+      <a href="#m3" class="m m3" data-title="第三届">
+        <i class="iconfont icon-location"></i>
+      </a>
+      <a href="#m4" class="m m4" data-title="第四届">
+        <i class="iconfont icon-location"></i>
+      </a>
+      <a href="#m5" class="m m5" data-title="第五届">
+        <i class="iconfont icon-location"></i>
+      </a>
+      <a href="#m6" class="m m6" data-title="第六届">
+        <i class="iconfont icon-location"></i>
+      </a>
+      <a href="#m7" class="m m7" data-title="第七届">
+        <i class="iconfont icon-location"></i>
+      </a>
+      <a href="#m8" class="m m8" data-title="第八届">
+        <i class="iconfont icon-location"></i>
+      </a>
+      <a href="#m9" class="m m9" data-title="第九届">
+        <i class="iconfont icon-location"></i>
+      </a>
+      <!-- <a href="http://join.betahouse.us" class="m join" data-title="Join">
+        <i class="iconfont icon-join"></i>
+      </a> -->
+    </div>
+    <div class="photo-box">
+      <!--<div class="m m1">
+        <img src="http://www.betahouse.us/00e7d64dd7e38473bc503673e819e2c1.jpg" alt="" data-when="m1" data-index="0">
+        <img src="http://www.betahouse.us/1fc75a68aa25a5dea0ff73855b75a1c9.jpg" alt="" data-when="m1" data-index="1">
+      </div>-->
+    </div>
+    <div class="info-box">
+      <!--<div class="close" id="close"></div>
+
+      <div class="content">
+        <img src="http://www.betahouse.us/1fc75a68aa25a5dea0ff73855b75a1c9.jpg" alt="" data-m="m1" data-index="1">
+        <div class="info">
+          <h1>黄丽雅 - 产品设计</h1>
+          <p class="contact">
+            <a href=""><i class="iconfont icon-github2"></i></a>
+            <a href=""><i class="iconfont icon-blog"></i></a>
+          </p>
+          <p>我想用长得不一样的脑子来讲我对世界的认知任何一种表达任何一种语言都是为了能与你一起玩耍这次我们用代码好不好=皿=</p>
+        </div>
+      </div>
+
+      <div class="footer">
+        <span>第一届成员：</span>
+        <img src="http://www.betahouse.us/00e7d64dd7e38473bc503673e819e2c1.jpg" alt="" data-when="m1" data-index="0">
+        <img src="http://www.betahouse.us/00e7d64dd7e38473bc503673e819e2c1.jpg" alt="" data-when="m1" data-index="0">
+        <img src="http://www.betahouse.us/1fc75a68aa25a5dea0ff73855b75a1c9.jpg" alt="" data-when="m1" data-index="1" class="current">
+        <img src="http://www.betahouse.us/00e7d64dd7e38473bc503673e819e2c1.jpg" alt="" data-when="m1" data-index="0">
+      </div>
+    </div>-->
+  </section>
+
+  <!-- 关于我们 -->
+  <section class="about" id="about">
+    <div class="back"><a href="/#"><i class="iconfont icon-back"></i></a></div>
+    <div class="about-content">
+      <h1>About</h1>
+      <p>β-house<span>始于</span>2012，是一个基于热爱与兴趣的专业网站建设技术团队，以实际项目为驱动力，主攻Web系统规划和开发、运维和服务器等多个方向，其成员主要由信息工程学院在校本科生组成，主旨在于提升团队成员在面对新事物的学习能力、动手实践能力、创新能力和团队协作精神</p>
+      <img src="assets/images/about-1.jpg" alt="">
+      <p>我们热爱<span>研发</span>，为校园各个角落制作过网页，系统，提供技术支持。</p>
+      <p>我们有黑客和极客精神，研究<span>网络攻防</span>技术，保护师生信息安全。</p>
+      <img src="assets/images/about-2.jpg" alt="">
+      <p>我们有就职于国内外各大互联网公司的学长学姐，帮助我们了解行业<span>动向</span>，茁壮成长。</p>
+      <img src="assets/images/about-3.jpg" alt="">
+      <p>我们每周都会进行技术分享，我们会讨论<span>开发技巧</span>，<span>信息安全</span>，<span>人工智能</span>，以及一切<span>有趣</span>的事情</p>
+    </div>
+    <footer>
+      <p>2012-2018 <i class="iconfont icon-aixin"></i> β-house</p>
+    </footer>
+  </section>
+  <script src="assets/js/script.min.js"></script>
+  <script>
+    ;(function() {
+      var loader = document.querySelector('#loader');
+
+      document.body.removeChild(loader);
+    }());
+  </script>
+</body>
+</html>

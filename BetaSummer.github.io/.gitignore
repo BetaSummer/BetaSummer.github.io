@@ -1,0 +1,5 @@
+node_modules/
+.idea/
+assets/css/style.min.css.map
+assets/js/script.min.js.map
+.DS_Store

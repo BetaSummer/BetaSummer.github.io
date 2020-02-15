@@ -1,0 +1,38 @@
+{
+  "name": "beta2017",
+  "version": "1.0.0",
+  "description": "beta-house 官网",
+  "main": "index.js",
+  "scripts": {
+    "production": "npm install && npm run build-css && npm run build-js && npm run rm-map",
+    "rm-map": "rm assets/**/**.map",
+    "dev": "parallelshell 'npm run watch-css' 'npm run watch-js' 'npm run browser-sync'",
+    "browser-sync": "browser-sync start --server --files '**'",
+    "watch-css": "onchange 'assets/css/src/**.css' -- npm run build-css",
+    "watch-js": "onchange 'assets/js/src/**.js' -- npm run build-js",
+    "build-js": "uglifyjs assets/js/src/**.js -o assets/js/script.min.js --source-map assets/js/script.min.js.map --source-map-root / --source-map-url script.min.js.map -c -m",
+    "build-css": "postcss assets/css/src/style.css -u postcss-import autoprefixer cssnano --autoprefixer.browsers '> 5%, ie 9' -m true -o assets/css/style.min.css",
+    "eslint": "eslint assets/js/src/**.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "betahouse"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BetaSummer/BetaSummer.github.io.git"
+  },
+  "author": "huangxutao <h784124804@gmail.com> (https://hxtao.site/)",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "6.7.7",
+    "browser-sync": "2.18.8",
+    "cssnano": "3.10.0",
+    "eslint": "3.19.0",
+    "onchange": "3.2.1",
+    "parallelshell": "2.0.0",
+    "postcss-cli": "3.1.1",
+    "postcss-import": "9.1.0",
+    "uglify-js": "2.8.22"
+  }
+}

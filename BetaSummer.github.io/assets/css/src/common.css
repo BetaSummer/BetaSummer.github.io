@@ -1,0 +1,101 @@
+/* latin-ext */
+@font-face {
+  font-family: 'Barrio';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Barrio Regular'), local('Barrio-Regular'), url(../assets/font/ls-_SA5kU_96PIKsj4eeYPesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Barrio';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Barrio Regular'), local('Barrio-Regular'), url(../font/qC9DkIiXyrH5oRNKaVpE0g.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+html,body{
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  box-sizing: border-box;
+  color: #333;
+  font: 16px/1.4 "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  overflow: hidden;
+}
+
+a{
+  text-decoration: none;
+  outline: none;
+}
+
+canvas{
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  animation: changeBgColor 60s ease-in-out infinite;
+}
+
+.hook{
+  display: none;
+}
+
+main, section{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  background: #fff;
+  transition: all .6s ease-in-out; 
+}
+
+/* 返回主界面 */
+section .back{
+  position: absolute;
+  top: 0;
+}
+
+section .back a{
+  display: block;
+  padding: 1rem;
+  color: #333;
+}
+
+section .back a:hover{
+  text-decoration: underline;
+}
+
+@media only screen and (min-width: 640px) {
+  /* 定义滚动条高宽及背景 高宽分别对应横竖滚动条的尺寸 */
+  ::-webkit-scrollbar{
+    width: .32rem;
+    background-color: #eee;
+  }
+
+  ::-webkit-scrollbar-track:hover{
+    background-color: #eee;
+  }
+
+  /* 定义滑块 内阴影 圆角 */
+  ::-webkit-scrollbar-thumb{
+    background-color: #afafb0;
+  }
+
+  ::-webkit-scrollbar-thumb:hover{
+    background-color: #888;
+  }
+  
+}
